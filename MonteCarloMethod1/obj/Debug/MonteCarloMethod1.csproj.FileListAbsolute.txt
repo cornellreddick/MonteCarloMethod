@@ -1,0 +1,7 @@
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\bin\Debug\MonteCarloMethod1.exe.config
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\bin\Debug\MonteCarloMethod1.exe
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\bin\Debug\MonteCarloMethod1.pdb
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\obj\Debug\MonteCarloMethod1.csproj.CoreCompileInputs.cache
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\obj\Debug\MonteCarloMethod1.exe
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\obj\Debug\MonteCarloMethod1.pdb
+C:\Users\Corne\source\repos\MonteCarloMethod1\MonteCarloMethod1\obj\Debug\MonteCarloMethod1.csprojResolveAssemblyReference.cache
